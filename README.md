@@ -1,6 +1,6 @@
 <a href="https://Godsk-glitch.github.io"><img width="80%" src="header.png" /></a></p>
 
-- 🔭 I’m currently working on Android project
+- 🔭 I’m currently working on Android project (Food order App)
 - 🌱 I’m currently learning ReactJs
 - 👯 I’m looking to collaborate on Android Project
 - 🤔 I’m looking for help with how to add compnents in an Android app.
