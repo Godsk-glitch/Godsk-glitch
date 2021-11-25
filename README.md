@@ -1,4 +1,4 @@
-<p align="center"><a href="https://Godsk-glitch.github.io"><img width="80%" src="header.png" /></a></p>
+<p align="center"><a href="https://Godsk-glitch.github.io"><img width="20%" src="header.png" /></a></p>
 
 - 🔭 I’m currently working on Android project
 - 🌱 I’m currently learning ReactJs
