@@ -1,4 +1,4 @@
-Hi I'm Shubam koundel 👋
+<p align="center"><a href="https://Godsk-glitch.github.io"><img width="80%" src="header.png" /></a></p>
 
 - 🔭 I’m currently working on Android project
 - 🌱 I’m currently learning ReactJs
@@ -9,7 +9,7 @@ Hi I'm Shubam koundel 👋
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: The Firefox logo isn’t a fox… it’s a red panda!
 
-Language and Tools
+Language and Tools:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
