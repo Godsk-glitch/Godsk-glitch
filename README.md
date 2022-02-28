@@ -26,7 +26,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazonwebservices" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/git/git-original-wordmark.svg" alt="git" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/androidStudio/androidstudio-original-wordmark.svg" alt="git" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/android/android-original-wordmark.svg" alt="git" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/android/android-original-wordmark.svg" alt="git" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/vue/vue-original-wordmark.svg" alt="git" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/tailwind/tailwind-original-wordmark.svg" alt="git" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/bootstrap/bootstrap-original-wordmark.svg" alt="git" height="50"/>
  
 
   </p><br />
