@@ -5,8 +5,7 @@
 - 👯 I’m looking to collaborate on Android Project
 - 🤔 I’m looking for help with how to add components in my Android app.
 - 💬 Ask me about Programming languages and tech related stuff.
-- 📫 How to reach me: [Instagram - Shubam koundel](https://www.instagram.com/shubam.io/), [Twitter - @shubhamkoundel](https://twitter.com/shubhamkoundel)
-- ⚡ Fun fact: The Firefox logo isn’t a fox… it’s a red panda!
+- 📫 How to reach me: [Instagram - Shubam koundel](https://www.instagram.com/shubam.io/)
 
 <p>
   <a href="https://twitter.com/intent/follow?screen_name=shubhamkoundel">
