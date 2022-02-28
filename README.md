@@ -8,6 +8,16 @@
 - 📫 How to reach me: [Instagram - Shubam koundel](https://www.instagram.com/shubam.io/), [Twitter - @shubhamkoundel](https://twitter.com/shubhamkoundel)
 - ⚡ Fun fact: The Firefox logo isn’t a fox… it’s a red panda!
 
+<p>
+  <a href="https://twitter.com/intent/follow?screen_name=shubhamkoundel">
+    <img src="https://user-images.githubusercontent.com/7629661/87821427-202e0280-c870-11ea-9e38-8c7c74856753.png" width="144" alt="Follow @shubhamkoundel on Twitter" title="Follow @shubhamkoundel on Twitter">
+  </a>
+
+<!--   <a href="https://www.instagram.com/shubham_koundel/?hl=en">
+    <img src="https://user-images.githubusercontent.com/7629661/87821425-1f956c00-c870-11ea-9871-a76f99739501.png" width="156" alt="Sponsor siddharth018 on GitHub" title="Sponsor siddharth018 on GitHub">
+  </a>
+</p> -->
+
 
 ### Languages, Frameworks and Tools I use and I have worked with:
 **Languages and Tools:**
