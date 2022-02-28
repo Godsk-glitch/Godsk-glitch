@@ -6,9 +6,8 @@
 - 👯 I’m looking to collaborate on Android Project
 - 🤔 I’m looking for help with how to add components in my Android app.
 - 💬 Ask me about Programming languages and tech related stuff.
-- 📫 How to reach me: [Instagram - Shubam koundel](https://www.instagram.com/shubam.io/)
+- 📫 How to reach me: [Instagram - Shubam koundel](https://www.instagram.com/shubam.io/) or
 
-<p>
   <a href="https://twitter.com/intent/follow?screen_name=shubhamkoundel">
     <img src="https://user-images.githubusercontent.com/7629661/87821427-202e0280-c870-11ea-9e38-8c7c74856753.png" width="144" alt="Follow @shubhamkoundel on Twitter" title="Follow @shubhamkoundel on Twitter">
   </a>
@@ -27,6 +26,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazonwebservices" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/git/git-original-wordmark.svg" alt="git" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/android/android-original-wordmark.svg" alt="git" height="50"/>
  
 
   </p><br />
