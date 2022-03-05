@@ -1,7 +1,7 @@
 <a href="https://Godsk-glitch.github.io"><img width="80%" src="header.png" /></a></p>
-<p align="center">
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=Godsk-glitch.Godsk-glitch) 
-</p>
+
 
 - 🔭 I’m currently working on VILT Stack (BMI Calculator)
 - 👏 Recent Project <a href="https://github.com/Godsk-glitch/Bmi-calculator" target="_blank">(BMI Calculator)</a>
