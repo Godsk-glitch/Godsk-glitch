@@ -1,15 +1,15 @@
 Hi 👋 My name is Shubam koundel
 ===============================
 
-Web Developer and Android Developer
+Full Stack Developer and Android Developer
 -----------------------------------
 
 Fascinated with the Internet and to create something that will serve a purpose. Designing Beautiful websites that attract and engage with the audience.
 
 * 🌍  I'm based in Banglore
-* ✉️  You can contact me at [Shubamkoundel2060@gmail.com](mailto:Shubamkoundel2060@gmail.com)
-* 🧠  I'm learning React
-* 🤝  I'm open to collaborating on Frontend Awesome Projects
+* ✉️  You can contact me at [Shubamkoundel2050@gmail.com](mailto:Shubamkoundel2050@gmail.com)
+* 🧠  I'm learning React.js currently
+* 🤝  I'm open to collaborating on Awesome Projects
 
 <a href="https://www.github.com/Godsk-glitch" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Godsk-glitch?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
