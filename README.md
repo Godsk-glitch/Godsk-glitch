@@ -6,7 +6,7 @@ Full Stack Developer and Android Developer
 
 Fascinated with the Internet and to create something that will serve a purpose. Designing Beautiful websites that attract and engage with the audience.
 
-* 🌍  I'm based in Banglore
+* 🌍  I'm based in Android
 * ✉️  You can contact me at [Shubamkoundel2050@gmail.com](mailto:Shubamkoundel2050@gmail.com)
 * 🧠  I'm learning React.js currently
 * 🤝  I'm open to collaborating on Awesome Projects
