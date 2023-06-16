@@ -19,7 +19,7 @@
   
 Fascinated with the Internet and to create something that will serve a purpose. Designing Beautiful websites that attract and engage with the audience.
 
-* 🌍  I'm based in New Delhi, INDIa
+* 🌍  I'm based in New Delhi, India 
 * ✉️  You can contact me at [Shubhamkoundel2050@gmail.com](mailto:Shubhamkoundel2050@gmail.com)
 * 🧠  I'm learning React.js currently
 * 🤝  I'm open to collaborating on Awesome Projects.
