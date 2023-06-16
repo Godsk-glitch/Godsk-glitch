@@ -1,27 +1,55 @@
-                                                          
-                                                          
-                                                          
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<!-- HTML -->
+<p align="center">
+<img src="https://readme-jokes.vercel.app/api?theme=watermelon" alt="Jokes Card" />     
+</p>
 
+<!-- ![Jokes Card](https://readme-jokes.vercel.app/api) -->
 
-Hi 👋 My name is Shubam koundel
-===============================
+<p align="center">
+  <span font-size="100px">Hi 👋 My name is Shubam koundel</span>
+  <br>
+<span>===============================</span>
+</p>
 
-Full Stack Developer and Android Developer
------------------------------------
-
+<p align="center">
+<span>Full Stack Developer and Android Developer</span>
+<br>
+<span>-----------------------------------</span>
+</p>
+  
 Fascinated with the Internet and to create something that will serve a purpose. Designing Beautiful websites that attract and engage with the audience.
 
-* 🌍  I'm based in Android
+* 🌍  I'm based in New Delhi, INDIa
 * ✉️  You can contact me at [Shubhamkoundel2050@gmail.com](mailto:Shubhamkoundel2050@gmail.com)
 * 🧠  I'm learning React.js currently
-* 🤝  I'm open to collaborating on Awesome Projects
+* 🤝  I'm open to collaborating on Awesome Projects.
 
 <a href="https://www.github.com/Godsk-glitch" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Godsk-glitch?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-### Skills
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma,androidstudio&theme=light)]()
 
+### Programming Languages I Know
+[![Programming Languages I Know](https://skillicons.dev/icons?i=java,kotlin,py,js,php&theme=light)]()
+
+### Frontend Development
+[![My Skills](https://skillicons.dev/icons?i=angular,bootstrap,css,flask,html,jquery,react,vue,tailwind&theme=light)]()
+
+### Backend Development
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite&theme=light)]()
+
+### UI/UX
+[![My Skills](https://skillicons.dev/icons?i=&theme=light)]()
+
+### Testing
+[![My Skills](https://skillicons.dev/icons?i=&theme=light)]()
+
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=&theme=light)]()
+
+### IDES
+[![My Skills](https://skillicons.dev/icons?i=&theme=light)]()
+
+### CMS
+[![My Skills](https://skillicons.dev/icons?i=&theme=light)]()
 
 ### Socials
 
