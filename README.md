@@ -8,14 +8,16 @@
 <p align="center">
   <span font-size="100px">Hi 👋 My name is Shubam koundel</span>
   <br>
-<span>===============================</span>
+  <span>===============================</span>
 </p>
 
 <p align="center">
-<span>Full Stack Developer and Android Developer</span>
-<br>
-<span>-----------------------------------</span>
+ <span>Full Stack Developer and Android Developer</span>
+ <br>
+ <span>-----------------------------------</span>
 </p>
+
+
   
 Fascinated with the Internet and to create something that will serve a purpose. Designing Beautiful websites that attract and engage with the audience.
 
@@ -34,22 +36,28 @@ src="https://img.shields.io/github/followers/Godsk-glitch?logo=github&style=for-
 [![My Skills](https://skillicons.dev/icons?i=angular,bootstrap,css,flask,html,jquery,react,vue,tailwind&theme=light)]()
 
 ### Backend Development
+[![My Skills](https://skillicons.dev/icons?i=nodejs,js&theme=light)]()
+
+### Databases
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite&theme=light)]()
 
 ### UI/UX
-[![My Skills](https://skillicons.dev/icons?i=&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=figma&theme=light)]()
 
 ### Testing
-[![My Skills](https://skillicons.dev/icons?i=&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=selenium&theme=light)]()
 
 ### Tools
-[![My Skills](https://skillicons.dev/icons?i=&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=netify,github,stackoverflow&theme=light)]()
 
 ### IDES
-[![My Skills](https://skillicons.dev/icons?i=&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=visualstudio&theme=light)]()
 
 ### CMS
-[![My Skills](https://skillicons.dev/icons?i=&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=wordpress,shopify&theme=light)]()
+
+### VCS
+[![My Skills](https://skillicons.dev/icons?i=git&theme=light)]()
 
 ### Socials
 
