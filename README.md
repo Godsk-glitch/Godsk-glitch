@@ -16,7 +16,6 @@
  <br>
  <span>-----------------------------------</span>
 </p>
-
   
 Fascinated with the Internet and to create something that will serve a purpose. Designing Beautiful websites that attract and engage with the audience.
 
